@@ -2,5 +2,6 @@
     background-color: gray;
 }
 
-.dude{ flex: right;
+.dude{ background-color: aliceblue;
+    flex: right;
 }
