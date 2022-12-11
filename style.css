@@ -3,5 +3,5 @@
 }
 
 .dude{ background-color: aliceblue;
-    flex: right;
+  display: flex;
 }
