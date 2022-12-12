@@ -12,3 +12,20 @@ section {
   border-radius: 70%;
   margin-top: 50px;
 }
+
+.mines {
+  font-size: medium;
+  font-family: sans-serif ;
+  font-weight: 100;
+}
+
+#move {
+display: block;
+display: flex;
+
+
+}
+
+.bluee {
+  color: rgb(82, 165, 216);
+}
