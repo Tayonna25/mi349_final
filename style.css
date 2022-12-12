@@ -1,19 +1,10 @@
-
-.dude{ background-color: aliceblue;
-  display: flex;
+img { 
+  width: 100%;
 }
 
-.stun {
-  background-color: lightgray;
-}
 
-.circle {
-  border: 10px ridge #f00;
-    background-color: #ff0;
-    padding: .5rem;
-    display: flex;
-    flex-direction: column;
-}
-.circle {
-  width: 75%;
+background-color: {#ccc;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #332;
+    margin-top: 100px;
 }
