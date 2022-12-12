@@ -2,6 +2,10 @@ img {
   width: 100%;
 }
 
+section {
+  display: block;
+}
+
 .avatar {
   box-shadow: rgb(0 0 0 / 10%) 0 10px 10px;
   width: 200px;
