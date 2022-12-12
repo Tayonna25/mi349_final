@@ -5,3 +5,15 @@
 .dude{ background-color: aliceblue;
   display: flex;
 }
+
+.forecast {
+  margin: .5rem;
+  padding: .3rem;
+  font-size: 1.2rem;
+}
+
+.forecast {
+  background: right/contain content-box border-box no-repeat
+        url('/media/examples/rain.svg') white;
+}
+
