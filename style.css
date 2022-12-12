@@ -7,22 +7,6 @@
   background-color: lightgray;
 }
 
-.forecast {
-  margin: .5rem;
-  padding: .3rem;
-  font-size: 1.2rem;
-}
-
-.forecast {
-  margin: .5rem;
-    padding: .3rem;
-    font-size: 1.2rem
-}
-
-.forecast > p {
-  background: right/contain content-box border-box no-repeat white;
-}
-
 .circle {
   border: 10px ridge #f00;
     background-color: #ff0;
