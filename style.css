@@ -6,6 +6,10 @@
   display: flex;
 }
 
+.stun {
+  background-color: lightgray;
+}
+
 .forecast {
   margin: .5rem;
   padding: .3rem;
