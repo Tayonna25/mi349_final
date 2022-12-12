@@ -21,6 +21,11 @@ body {
   margin-top: 50px;
 }
 
+.bigger{
+font-size: 62%;
+
+}
+
 #Tayonna-avatar{
 
   border-style: solid;
@@ -44,4 +49,15 @@ display: block;
 
 .Tom {
   -webkit-tap-highlight-color: rgba(0,0,0,0) 
+}
+
+.cards {
+  background-color: #f3f3f3;
+  border-radius: 15px;
+  margin: 0 auto;
+  width: 400px;
+  text-align: center;
+  box-shadow: rgb(0 0 0 / 10%) 0 10px 10px;
+  border: 1px solid #aaa;
+
 }
