@@ -1,6 +1,3 @@
-.flexy{
-    background-color: gray;
-}
 
 .dude{ background-color: aliceblue;
   display: flex;
@@ -26,3 +23,13 @@
   background: right/contain content-box border-box no-repeat white;
 }
 
+.circle {
+  border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+.circle {
+  width: 100%;
+}
