@@ -44,6 +44,7 @@ font-size: 62%;
 
 #move {
 display: block;
+display: flex;
 }
 
 
