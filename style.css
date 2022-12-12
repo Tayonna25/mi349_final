@@ -4,6 +4,13 @@ img {
 
 section {
   display: block;
+  background-color: lightgray;
+}
+
+body {
+  background-color: #ccc;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #332;
 }
 
 .avatar {
