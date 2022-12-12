@@ -11,6 +11,7 @@ body {
   background-color: #ccc;
   font-family: Arial, Helvetica, sans-serif;
   color: #332;
+  display: block;
 }
 
 .avatar {
@@ -31,10 +32,17 @@ body {
 #move {
 display: block;
 display: flex;
-
-
 }
 
 .blues {
   color: rgb(82, 165, 216);
+}
+
+html {
+  font size: 62%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0)
+}
+
+.Tom {
+  -webkit-tap-highlight-color: rgba(0,0,0,0) 
 }
