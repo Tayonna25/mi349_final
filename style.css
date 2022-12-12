@@ -20,6 +20,15 @@ body {
   border-radius: 70%;
   margin-top: 50px;
 }
+
+#Tayonna-avatar{
+
+  border-style: dashed;
+  border-width: 3px;
+  border-left-width: 10px;
+  border-color: black;
+}
+
 .bigger {
   font-size: large;
 }
